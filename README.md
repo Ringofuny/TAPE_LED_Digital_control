@@ -1,0 +1,2 @@
+# TAPE_LED_Digital_control
+テープLEDをディジタル出力で制御するやつ(mbedos6で動作確認済み）
